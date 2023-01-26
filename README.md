@@ -8,6 +8,13 @@ To help familiarize you with these tests and allow you to use the skills covered
 
 This week’s coursework will equip you with all the skills you need to succeed in this assignment.
 
+Notes: struggled again with this challenge. I thought I was getting it as class activities and processes make sense however when I go to build my own, I can't get it to work for the life of me. Below are a few screen shots of current status and link to deployed page. Going to need to keep working on this one and resubmit again. 
+
+![site header screenshot](./Assets/Capture2.JPG)
+![site header screenshot](./Assets/page%20screen%20shot.JPG)
+
+[sitelink](./index.html) 
+
 ## User Story
 
 ```
